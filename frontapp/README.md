@@ -1,1 +1,1 @@
-This app is made to know if the image of a patient is cancerous or not. For this, keras and tensorflow is used
+Using streamlit we built this app to allow patients to get the result of their Mammograms
